@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Watson</h1>
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/shihhuachen](https://sites.google.com/view/shihhuachen)
+- 👨‍💻 All of my projects are available at https://sites.google.com/view/shihhuachen
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
